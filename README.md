@@ -6,22 +6,19 @@
 <!-- Intro -->
 <p align="center">
 🎓 Sinh viên Công nghệ Thông tin <br/>
-💻 Đam mê: Web, AI, Open Source <br/>
-🚀 Đang học: React, Node.js, Machine Learning
+💻 Đam mê: Lập trình, xem phim, đọc truyện <br/>
+🚀 Đang học tại: Trường Đại học Giao thông Vận Tải (Hà Nội) 
 </p>
 
 ---
 
 ## 🌐 Liên hệ
 <p align="center">
-  <a href="mailto:nguyenducvu2006qb@gmail.com">
+  <a href="mailto: ndv120806@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://facebook.com/">
+  <a href="https://www.facebook.com/ndv128">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 
@@ -29,7 +26,7 @@
 
 ## ⚒️ Kỹ năng
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,go,c,cpp,discord" />
 </p>
 
 ---
@@ -45,13 +42,6 @@
 ## 🏆 Thành tích
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=duczu&theme=algolia&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🔥 Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=duczu&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
