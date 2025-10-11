@@ -26,7 +26,7 @@
 
 ## ⚒️ Kỹ năng
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,go,c,cpp,discord" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,go,c,cpp,discord" />
 </p>
 
 ---
