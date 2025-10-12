@@ -1,8 +1,9 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=👋%20Xin%20chào,%20mình%20là%20DucZu&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
+<h1>Xin chào!</h1>
+<p><b>Họ và tên: </b> <span>Nguyễn Đức Vũ</span></p>
+<p><b>Quê quán:</b> <span>Bố Trạch, Quảng Bình</span></p>
+<p><b>Email: </b> <span>ndv120806@gmail.com</span></p>
+<p><b><i>Sinh viên lớp CNTT4 Khóa 65</i></b></p>
 <!-- Intro -->
 <p align="center">
 🎓 Sinh viên Công nghệ Thông tin <br/>
