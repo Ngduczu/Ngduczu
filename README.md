@@ -1,9 +1,13 @@
 <!-- Banner -->
+---
+<div align="center">
 <h1>Xin chào!</h1>
 <p><b>Họ và tên: </b> <span>Nguyễn Đức Vũ</span></p>
 <p><b>Quê quán:</b> <span>Bố Trạch, Quảng Bình</span></p>
 <p><b>Email: </b> <span>ndv120806@gmail.com</span></p>
 <p><b><i>Sinh viên lớp CNTT4 Khóa 65</i></b></p>
+</div>
+---
 <!-- Intro -->
 <p align="center">
 🎓 Sinh viên Công nghệ Thông tin <br/>
