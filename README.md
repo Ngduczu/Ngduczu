@@ -33,15 +33,15 @@
 
 ## 📊 Thống kê GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duczu&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duczu&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ngduczu&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngduczu&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
 ## 🏆 Thành tích
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=duczu&theme=algolia&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ngduczu&theme=algolia&no-frame=true&row=1&column=7" />
 </p>
 
 ---
