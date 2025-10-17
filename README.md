@@ -20,10 +20,10 @@
 
 ## 🌐 Liên hệ
 <p align="center">
-  <a href="mailto: ndv120806@gmail.com">
+  <a href="mailto: ndv120806@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://www.facebook.com/ndv128">
+  <a href="https://www.facebook.com/ndv128" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
