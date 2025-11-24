@@ -57,5 +57,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00c6ff,100:0072ff&section=footer&desc=Wellcome%20to%20DucZu%20github%20account&descAlign=0&descAlignY=9&descSize=16"/>
 </p>
