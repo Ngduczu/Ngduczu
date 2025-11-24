@@ -53,7 +53,7 @@
 ---
 
 ## ✨ Fun Fact
-<p align="center"><i>"Code không bug thì hơi nghi ngờ… bug mới là chân lý 😆"</i></p>
+<p align="center"><i>"My heart belong to you"</i></p>
 
 <!-- Footer -->
 <p align="center">
