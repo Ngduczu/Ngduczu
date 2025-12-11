@@ -8,6 +8,18 @@
 <p><b><i>Sinh viên lớp CNTT4 Khóa 65</i></b></p>
 </div>
 
+
+```JSX
+duczu (
+  fullName: "Nguyen Duc Vu",
+  bornOn: "2006",
+  location: ["Ha Noi", "Quang Binh"],
+  contacts: {
+      email: [ndv120806@gmail.com"],
+      facebook: ["https://facebook.com/ndv128"]
+  }
+)
+```
 ---
 <!-- Intro -->
 <p align="center">
